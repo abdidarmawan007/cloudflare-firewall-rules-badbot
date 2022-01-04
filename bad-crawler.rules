@@ -1,5 +1,4 @@
 (http.user_agent contains "80legs") or
-(http.user_agent contains "ltx71") or
 (http.user_agent contains "Abonti") or
 (http.user_agent contains "admantx") or
 (http.user_agent contains "aipbot") or
